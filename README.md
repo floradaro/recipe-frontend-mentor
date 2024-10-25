@@ -27,7 +27,7 @@ Crear una tarjeta, que sea fácil de leer, con los requerimientos impuestos por 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://floradaro.github.io/recipe-frontend-mentor/)
 
 ## My process
 
